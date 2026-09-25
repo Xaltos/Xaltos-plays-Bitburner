@@ -1,0 +1,858 @@
+[
+   {
+      "ServerName": "home",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "n00dles",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "foodnstuff",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "sigma-cosmetics",
+      "HackLevel": 5,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "joesguns",
+      "HackLevel": 10,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hong-fang-tea",
+      "HackLevel": 30,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "harakiri-sushi",
+      "HackLevel": 40,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "iron-gym",
+      "HackLevel": 100,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-0",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-1",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-2",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-3",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-4",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-5",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-6",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-7",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-8",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-9",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-10",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-11",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-12",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-13",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-14",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-15",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-16",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-17",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-18",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-19",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-20",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-21",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-22",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-23",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "MyCloud-24",
+      "HackLevel": 1,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-0",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-1",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-2",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-3",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-4",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-5",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-6",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-7",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-8",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-9",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "hacknet-server-10",
+      "HackLevel": 0,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "nectar-net",
+      "HackLevel": 20,
+      "BlockedBis": 1789808628811,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "CSEC",
+      "HackLevel": 55,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "max-hardware",
+      "HackLevel": 80,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "zer0",
+      "HackLevel": 75,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "phantasy",
+      "HackLevel": 100,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "silver-helix",
+      "HackLevel": 150,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "neo-net",
+      "HackLevel": 50,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "omega-net",
+      "HackLevel": 216,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "netlink",
+      "HackLevel": 424,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "johnson-ortho",
+      "HackLevel": 282,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "crush-fitness",
+      "HackLevel": 238,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "the-hub",
+      "HackLevel": 278,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "computek",
+      "HackLevel": 364,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "avmnite-02h",
+      "HackLevel": 203,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "rothman-uni",
+      "HackLevel": 430,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "zb-institute",
+      "HackLevel": 766,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "summit-uni",
+      "HackLevel": 467,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "I.I.I.I",
+      "HackLevel": 347,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "catalyst",
+      "HackLevel": 411,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "syscore",
+      "HackLevel": 642,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "lexo-corp",
+      "HackLevel": 749,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "millenium-fitness",
+      "HackLevel": 483,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "rho-construction",
+      "HackLevel": 502,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "aevum-police",
+      "HackLevel": 420,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "alpha-ent",
+      "HackLevel": 529,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "galactic-cyber",
+      "HackLevel": 839,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "snap-fitness",
+      "HackLevel": 682,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "aerocorp",
+      "HackLevel": 907,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "global-pharm",
+      "HackLevel": 847,
+      "BlockedBis": 1789808628812,
+      "NextStep": "batch",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "omnia",
+      "HackLevel": 928,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "deltaone",
+      "HackLevel": 848,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "unitalife",
+      "HackLevel": 812,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "solaris",
+      "HackLevel": 773,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "defcomm",
+      "HackLevel": 954,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "icarus",
+      "HackLevel": 909,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "univ-energy",
+      "HackLevel": 858,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "zeus-med",
+      "HackLevel": 832,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "infocomm",
+      "HackLevel": 939,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "nova-med",
+      "HackLevel": 803,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "zb-def",
+      "HackLevel": 806,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "taiyang-digital",
+      "HackLevel": 860,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "titan-labs",
+      "HackLevel": 813,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "microdyne",
+      "HackLevel": 840,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "run4theh111z",
+      "HackLevel": 522,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "applied-energetics",
+      "HackLevel": 837,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "stormtech",
+      "HackLevel": 945,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "helios",
+      "HackLevel": 849,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "vitalife",
+      "HackLevel": 827,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "fulcrumtech",
+      "HackLevel": 1243,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "4sigma",
+      "HackLevel": 1128,
+      "BlockedBis": 1789817150334.8364,
+      "NextStep": "wait",
+      "BatchCounter": 2412,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": ".",
+      "HackLevel": 530,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "omnitek",
+      "HackLevel": 1074,
+      "BlockedBis": 1789814121781.4004,
+      "NextStep": "wait",
+      "BatchCounter": 1212,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "kuai-gong",
+      "HackLevel": 1203,
+      "BlockedBis": 1789819604461.0059,
+      "NextStep": "batch",
+      "BatchCounter": 5988,
+      "BlockedFrom": 1789819520017.2544
+   },
+   {
+      "ServerName": "blade",
+      "HackLevel": 1173,
+      "BlockedBis": 1789818838051.8462,
+      "NextStep": "batch",
+      "BatchCounter": 3766,
+      "BlockedFrom": 1789818702133.1348
+   },
+   {
+      "ServerName": "clarkinc",
+      "HackLevel": 963,
+      "BlockedBis": 1789819451939.6213,
+      "NextStep": "batch",
+      "BatchCounter": 33716,
+      "BlockedFrom": 1789819393141.466
+   },
+   {
+      "ServerName": "nwo",
+      "HackLevel": 1051,
+      "BlockedBis": 1789817251745.0417,
+      "NextStep": "batch",
+      "BatchCounter": 1212,
+      "BlockedFrom": 1789817148949.0312
+   },
+   {
+      "ServerName": "powerhouse-fitness",
+      "HackLevel": 1008,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "b-and-a",
+      "HackLevel": 1103,
+      "BlockedBis": 1789819508043.2402,
+      "NextStep": "wait",
+      "BatchCounter": 11880,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "megacorp",
+      "HackLevel": 1154,
+      "BlockedBis": 1789819407532.4045,
+      "NextStep": "wait",
+      "BatchCounter": 9037,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "ecorp",
+      "HackLevel": 1053,
+      "BlockedBis": 1789819354364.0613,
+      "NextStep": "wait",
+      "BatchCounter": 65824,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "fulcrumassets",
+      "HackLevel": 1523,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "The-Cave",
+      "HackLevel": 925,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   },
+   {
+      "ServerName": "w0r1d_d43m0n",
+      "HackLevel": 6000,
+      "BlockedBis": 1789808628812,
+      "NextStep": "none",
+      "BatchCounter": 0,
+      "BlockedFrom": 0
+   }
+]

@@ -1,0 +1,498 @@
+{
+  ".": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "4sigma": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "CSEC": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "I.I.I.I": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-0": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-1": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-10": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-11": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-12": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-13": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-14": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-2": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-3": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-4": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-5": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-6": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-7": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-8": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "MyCloud-9": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "The-Cave": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "aerocorp": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "aevum-police": {
+    "hackCount": 535,
+    "growCount": 562,
+    "weakCount": 1066,
+    "minStart": "17:06:40.477",
+    "maxEnd": "17:20:01.204"
+  },
+  "alpha-ent": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "applied-energetics": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "avmnite-02h": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "b-and-a": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "blade": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "catalyst": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 2,
+    "minStart": "17:08:28.293",
+    "maxEnd": "17:20:09.056"
+  },
+  "clarkinc": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "computek": {
+    "hackCount": 384,
+    "growCount": 312,
+    "weakCount": 580,
+    "minStart": "17:12:45.707",
+    "maxEnd": "17:23:32.830"
+  },
+  "crush-fitness": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "defcomm": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "deltaone": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "ecorp": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "foodnstuff": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "fulcrumassets": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "fulcrumtech": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "galactic-cyber": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "global-pharm": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-0": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-1": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-10": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-2": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-3": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-4": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-5": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-6": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-7": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-8": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hacknet-server-9": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "harakiri-sushi": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "helios": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "home": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "hong-fang-tea": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "icarus": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "infocomm": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "iron-gym": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "joesguns": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "johnson-ortho": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "kuai-gong": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "lexo-corp": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "max-hardware": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "megacorp": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "microdyne": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "millenium-fitness": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "n00dles": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "nectar-net": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "neo-net": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "netlink": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "nova-med": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "nwo": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "omega-net": {
+    "hackCount": 1,
+    "growCount": 1,
+    "weakCount": 2,
+    "minStart": "17:12:45.505",
+    "maxEnd": "17:14:02.783"
+  },
+  "omnia": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "omnitek": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "phantasy": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "powerhouse-fitness": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "rho-construction": {
+    "hackCount": 0,
+    "growCount": 1,
+    "weakCount": 1,
+    "minStart": "17:13:01.428",
+    "maxEnd": "17:17:41.778"
+  },
+  "rothman-uni": {
+    "hackCount": 613,
+    "growCount": 581,
+    "weakCount": 1127,
+    "minStart": "17:04:46.641",
+    "maxEnd": "17:22:37.386"
+  },
+  "run4theh111z": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "sigma-cosmetics": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "silver-helix": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "snap-fitness": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "solaris": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "stormtech": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "summit-uni": {
+    "hackCount": 610,
+    "growCount": 545,
+    "weakCount": 1099,
+    "minStart": "17:09:06.187",
+    "maxEnd": "17:19:33.805"
+  },
+  "syscore": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "taiyang-digital": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "the-hub": {
+    "hackCount": 575,
+    "growCount": 551,
+    "weakCount": 1077,
+    "minStart": "17:10:55.453",
+    "maxEnd": "17:17:39.081"
+  },
+  "titan-labs": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "unitalife": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "univ-energy": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "vitalife": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "zb-def": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "zb-institute": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "zer0": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  },
+  "zeus-med": {
+    "hackCount": 0,
+    "growCount": 0,
+    "weakCount": 0
+  }
+}

@@ -1,4 +1,5 @@
 # Xaltos-plays-Bitburner
+<<<<<<< HEAD
 
 Im Zeitraum Mai 2026 habe ich das Spiel Bitburner zufällig gefunden und dann für fast 5 Monate gespielt.
 Am Anfang hatte ich fast keine JavaScript Skills. In den Monaten hat sich das aber mit viel googlen und so manch einer KI Anfrage deutlich verbessert.
@@ -134,4 +135,7 @@ Xaltos  25.9.2026
 
 
 
+=======
+Meine gesammelten Scripte für das Spiel Bitburner (Version 3.0.0)
+>>>>>>> 4530c47bdb1445731e1e0324b833824b22a79a4a
 
